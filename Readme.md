@@ -21,7 +21,7 @@ Inspired by real-world chronographs, it features animations, lap tracking, sound
 
 ## 📸 Screenshots
 
-> (../screenshots/png1.png)
+> (./screenshots/png1.png)
 
 ---
 
